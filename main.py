@@ -7,7 +7,7 @@ single dad joke (the whole entry) to /output/entry.txt, falling back to
 
 import os
 
-JOKE = "I'm afraid for the calendar. Its days are numbered."
+JOKE = "I'm afraid for the calendar. Its days are numbered — and Friday is its weakest day."
 
 
 def main():
